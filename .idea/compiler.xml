@@ -6,7 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
         <module name="ball-gen" />
+=======
+        <module name="testing" />
+>>>>>>> e3bf64ec0039a4f3b8275d2b1aa172ce03af8070
       </profile>
     </annotationProcessing>
   </component>

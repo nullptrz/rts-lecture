@@ -5,6 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
+<<<<<<< HEAD
     <artifactId>ball-gen</artifactId>
     <version>1.0-SNAPSHOT</version>
 
@@ -21,6 +22,11 @@
         </dependency>
     </dependencies>
 
+=======
+    <artifactId>testing</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+>>>>>>> e3bf64ec0039a4f3b8275d2b1aa172ce03af8070
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
